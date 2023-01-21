@@ -1,5 +1,5 @@
 {
-  "name": "Quickswap Token List",
+  "name": "Vehronswap Token List",
   "timestamp": "2023-01-10T08:18:14.518Z",
   "version": {
     "major": 1,
@@ -318,7 +318,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053"
     },
     {
-      "name": "Dragon QUICK(NEW)",
+      "name": "Dragon RIV(NEW)",
       "address": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
       "symbol": "dQUICK(NEW)",
       "decimals": 18,
@@ -944,7 +944,7 @@
     {
       "name": "QuickSwap(NEW)",
       "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-      "symbol": "QUICK(NEW)",
+      "symbol": "RIV(NEW)",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
@@ -1350,12 +1350,12 @@
       "logoURI": "https://i.imgur.com/uIExoAr.png"
     },
     {
-      "name": "QuickSwap",
-      "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
-      "symbol": "QUICK",
+      "name": "Vehron",
+      "address": "0x68d5887B22Fbf7745265A2876e50B80a167D6EEc",
+      "symbol": "RIV",
       "decimals": 18,
       "chainId": 2000,
-      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Vehronofficial/Vehronswap@latest/RIV.png"
     },
     {
       "name": "USD Coin",
